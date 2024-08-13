@@ -1,4 +1,4 @@
-# NTPS 自然语言转 PowerShell 脚本
+# NLTPS 自然语言转 PowerShell 脚本
 
 ## 描述
 
